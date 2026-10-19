@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.vercel/
+*.zip
+preview.png
+.DS_Store
